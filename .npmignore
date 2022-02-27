@@ -2,3 +2,5 @@
 node_modules
 README.md
 test.ts
+index.ts
+tsconfig.json
