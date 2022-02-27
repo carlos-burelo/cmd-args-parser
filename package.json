@@ -1,0 +1,32 @@
+{
+  "name": "cmd-args-parser",
+  "description": "Command line arguments parser like  Angular CLI 😃",
+  "version": "3.0.0",
+  "license": "MIT",
+  "main": "./index.js",
+  "types": "./index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm run build && npm publish"
+  },
+  "keywords": [
+    "cli",
+    "command-line",
+    "command-line-interface",
+    "command-line-args",
+    "command-line-arguments",
+    "command-line-parser"
+  ],
+  "homepage": "https://carlosburelo.tk/cmd-args-parser",
+  "bugs": {
+    "url": "https://github.com/carlos-burelo/cmg-args-parser/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-burelo/cmg-args-parser.git"
+  },
+  "author": "Carlos Burelo",
+  "dependencies": {
+    "@types/node": "^17.0.17"
+  }
+}
