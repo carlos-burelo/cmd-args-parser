@@ -26,7 +26,7 @@
     "url": "git+https://github.com/carlos-burelo/cmg-args-parser.git"
   },
   "author": "Carlos Burelo",
-  "dependencies": {
+  "devDependencies": {
     "@types/node": "^17.0.17"
   }
 }
