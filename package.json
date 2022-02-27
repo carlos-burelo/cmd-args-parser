@@ -1,7 +1,7 @@
 {
   "name": "cmd-args-parser",
   "description": "Command line arguments parser like  Angular CLI 😃",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "license": "MIT",
   "main": "./index.js",
   "types": "./index.d.ts",
